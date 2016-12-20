@@ -1,2 +1,2 @@
 # fcc-timestampms
-FreeCodeCamp - Back end - Timestamp Microservice
+Timestamp Microservice
